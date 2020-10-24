@@ -1,0 +1,32 @@
+.maindiv{
+    height: 50px;
+    float: right;
+    padding-right: 5%;
+    margin-top: -46px;
+}
+
+.maindiv ul li{
+    list-style: none;
+}
+
+.logo{
+    padding-top: 10px;
+    margin-left: 10%;
+    color:#ffa400;
+}
+.hederi{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+}
+.links{
+    margin-top: 20px;
+    margin-right: 15%;
+    padding-left: 30px;
+}
+.links .link{
+    text-decoration: none;
+    padding: 15px;
+    color:#ffa400;
+}

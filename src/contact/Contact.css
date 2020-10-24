@@ -1,0 +1,41 @@
+.contact{
+    height: 400px;
+    background-color: rgb(243, 243, 247);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.aboutMe{
+    width:28%;
+    margin-right: 6%;
+}
+.aboutMe img {
+    width: 100%;
+}
+
+.contact-info{
+    width:25%;
+    height: 300px;
+    margin-top: 40px;
+    padding-left: 5%;
+    line-height: 1.6;
+}
+
+.openingHours{
+    width:25%;
+    height: 300px;
+    margin-right: 5%;
+    margin-top: 40px;
+    padding-left: 20px;
+    line-height:1.6;
+}
+
+.contact h2,h3{
+    color:#ffa400;
+    padding-top: 20px;
+    padding-bottom: 16px;
+    padding-left: 8%;
+}
+.contact p{
+    padding-right: 5%;
+}
